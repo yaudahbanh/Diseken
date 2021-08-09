@@ -2,22 +2,22 @@
 Wordpress common vulnerability scanner
 
 
--Denial of service in load-scripts/load-styles
+- Denial of service in load-scripts/load-styles
 
 
--Exposed logs file
+- Exposed logs file
 
 
--Exposed backup wp-config
+- Exposed backup wp-config
 
 
--Informative username disclosure
+- Informative username disclosure
 
 
--Bruteforce
+- Bruteforce
 
 
--XSPA vulnerability
+- XSPA vulnerability
 
 
 # Preview
