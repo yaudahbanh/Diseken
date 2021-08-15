@@ -41,7 +41,7 @@ def scan():
 	}
 
 	config = {
-	"/wp-config.php.swp",
+	"/.wp-config.php.swp",
 	"/wp-config.inc",
 	"/wp-config.old",
 	"/wp-config.txt",
@@ -56,7 +56,7 @@ def scan():
 	"/wp-config.php.zip",
 	"/wp-config.php.html",
 	"/wp-config.php~",
-	"/wp-admin/wp-config.php.swp",
+	"/wp-admin/.wp-config.php.swp",
 	"/wp-admin/wp-config.inc",
 	"/wp-admin/wp-config.old",
 	"/wp-admin/wp-config.txt",
@@ -71,7 +71,7 @@ def scan():
 	"/wp-admin/wp-config.php.zip",
 	"/wp-admin/wp-config.php.html",
 	"/wp-admin/wp-config.php~",
-	"/wp-content/wp-config.php.swp",
+	"/wp-content/.wp-config.php.swp",
 	"/wp-content/wp-config.inc",
 	"/wp-content/wp-config.old",
 	"/wp-content/wp-config.txt",
@@ -86,7 +86,7 @@ def scan():
 	"/wp-content/wp-config.php.zip",
 	"/wp-content/wp-config.php.html",
 	"/wp-content/wp-config.php~",
-	"/wp-includes/wp-config.php.swp",
+	"/wp-includes/.wp-config.php.swp",
 	"/wp-includes/wp-config.inc",
 	"/wp-includes/wp-config.old",
 	"/wp-includes/wp-config.txt",
